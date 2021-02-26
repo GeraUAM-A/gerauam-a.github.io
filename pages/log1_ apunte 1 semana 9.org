@@ -1,0 +1,100 @@
+#+TITLE: LOG1: Apunte 1 Semana 9
+
+** INFERENCIAS
+:PROPERTIES:
+:heading: true
+:background_color: #264c9b
+:END:
+**** La *inferencia deductiva* es aquella que marca una necesidad lógica formal de una afirmación a otra.
+***** Sus premisas pretenden ser contundentes a favor de la conclusión.
+**** La *inferencia no deductiva* es aquella que no marca una necesidad lógica formal de una afirmación a otra.
+***** Es más débil y sus premisas no son contundentes a favor de la conclusión.
+ año bisisesto
+***** /p/, por lo tanto /q/.
+****** Este año tiene 29 días, por lo tanto este es un año bisisesto
+** REGLAS INFERENCIALES
+:PROPERTIES:
+:heading: true
+:background_color: #264c9b
+:END:
+*** *Modus ponens*
+**** Si /p/ entonces /q/.
+:PROPERTIES:
+:id: 602c2d13-b2a6-40f4-bc79-bc0f5f7e16b2
+:END:
+***** Si febrero tiene 29 días, entonces es un año bisiesto
+**** /p/, por lo tanto /q/.
+***** Este año tiene 29 días, por lo tanto este es un año bisisesto
+*** *Modus tolens*
+**** Si /p/ entonces /q/.
+**** No /q/, por lo tanto no /p/
+***** /EJEMPLOS/:
+****** En casa de Juan acostumbran
+**** No /q/, por lo tanto no /p/.
+:PROPERTIES:
+:id: 602c2512-0277-4e9b-ba33-8e9b5ba7b5a4
+:todo: 1613507863194
+:END:
+***** Por lo regular cuando Juan aprueba sus materias, le dan un premio.
+****** Juan presentó exámenes y aprobó todas sus materias, entonces es probable que Juan siempre reciba un premio cuando aprueba sus materias.
+*** *Silogismo disyuntivo*
+**** O bien /p/ o bien /q/.
+***** O bien _repruebas_ o bien _apruebas_
+**** No /p/, por lo tanto /q/.
+***** No _reprobaste_, por lo tanto _aprobaste_
+*** *Silogismo hipotético*
+**** Si /p/ entonces /q/.
+***** Si _es mexicano_ entonces _come comida mexicana_
+:PROPERTIES:
+:id: 602c2d13-81cd-4e4a-8577-a5f04fb57d06
+:END:
+**** /q/ entonces /r/.
+***** Si _come comida mexicana_ entonces _come mole_
+**** Por lo tanto /p/ entonces /r/.
+***** Por lo tanto _si es mexicano_
+** RAZONAMIENTOS NO DEDUCTIVOS
+:PROPERTIES:
+:heading: true
+:background_color: #264c9b
+:END:
+*** En estos es más o menos probable que su conclusión se cumpla, siempre y cuando las proposiciones que las soporten o las sustenten se cumplan. Siendo una cuestión de grado
+*** Es un argumento en el
+**** *Inductivo*
+***** Se desarrolla en investigación científica.
+***** Basado en la repetición de regularidades, observando a través de las experiencias.
+***** No se da con una sola premisa la conclusión. Entre más evidencia se acumule, el razonamiento va a ser más fuerte.
+**** *Probabilistico*
+***** Es una característica de un argumento inductivo, pero está basado en una teoría de la probabilidad.
+***** Está regido por grados y tiene un criterio cuantitativo.
+***** Generalmente para soportar bien su conclusión debe estar por encima del 50% de las probabilidades.
+***** /EJEMPLO/:
+****** El 80% de los servidores públicos en México son corruptos.
+****** En México hay problemas de corrupción.
+******* Podemos concluir que es muy probable que en México los problemas de corrupción provengan de los servidores públicos.
+****** ---
+****** El 70% de los estudiantes con problemas de aprendizaje y que no tienen retardo en su desarrollo, provienen de familias disfuncionales.
+****** En la escuela /x/ algunos estudiantes tiene problemas de aprendizaje.
+******* Por tanto es probable que los estudiantes de esa escuela /x/ tengan problemas de aprendizaje por provenir de familias disfuncionales.
+**** *Abductivo*
+***** Tiene 3 componentes:
+****** Hecho
+****** Hipótesis de porque sucede tal hecho
+****** Afirmación de una relación de causalidad entre el hecho y la hipótesis
+****** /EJEMPLO/:
+******* El foco esta prendido.
+******* El foco se prende cuando se activa el interruptor.
+******* Entonces, es probable que el foco este prendido porque alguien activó el interruptor.
+******* ---
+******* Juan tiene diarrea y temperatura.
+******* La diarrea y temperatura podrían ser síntomas de alguna infección.
+******* Por lo tanto es probable que Juan tenga diarrea y temperatura como consecuencia de una infección intestinal.
+**** *Analógico*
+***** Implica un modelo. Una analogía que surja de una inferencia, incluso de una inferencia inductiva, para luego convertirse en una inferencia deductiva por analogía.
+***** Dado que un objeto /x/ tiene la propiedad /a/ inferimos inductivamente que todo objeto /x_1/ tiene la propiedad /a/ y de ahí concluimos que algún /x_2/ tiene la misma propiedad.
+***** /EJEMPLO/:
+****** Un barco es un lugar donde existe un capitán, una jerarquía de tripulantes, y también decimos que si no se ponen de acuerdo o no hay una buena relación y comunicación, seguramente las cosas marcharan mal en el barco.
+******* Cualquier lugar en el que haya dirigentes y subordinados, si no se ponen de acuerdo o no hay buena comunicación y relación, seguramente no llevaran las cosas de una forma correcta.
+******** _Una sociedad es como un barco_ dado que existe autoridad, funcionarios y sociedad, y si no se ponen de acuerdo y no hay una buena comunicación y relación, seguramente esa sociedad no marchara bien.
+**** *Retractable*
+***** A diferencia de los argumentos deductivos, en donde existen premisas generalizadas, porque ya de suyo son contundentes y no se ven afectadas por incluir algún otra información.
+***** En el retractable, la conclusión va cambiando al incluir nuevas premisas.

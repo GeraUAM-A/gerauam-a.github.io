@@ -1,0 +1,20 @@
+#+TITLE: MEPS1: Glosario
+
+** huestes
+*** Ejército en campaña.
+Conjunto de los seguidores o partidarios de una persona o de una causa.
+** henequén
+:PROPERTIES:
+:id: 6036de34-9d87-4c75-9805-f83d40d62ae8
+:END:
+*** Planta de hojas radicales largas, triangulares, carnosas, terminadas en un fuerte aguijón, y flores amarillentas en ramillete sobre un bohordo central; es originaria de México; se emplea en la fabricación de fibras textiles y en la elaboración de pulque, mezcal y tequila.
+** pugnas
+bed ((60359ede-2f05-4b6e-b80e-5bd822035061))}}
+bed ((60359ede-2
+** parapetar
+*** Resguardar o proteger a una persona o una cosa de algo que puede molestar o hacer daño.
+*** Librarse de hacer una cosa o resistirse a hacerla dando una razón determinada.
+822035061))}}
+embed ((60359ede-2f05-4b6e-b80e-5bd822035061))}}
+*** Lucha o enfrentamiento, especialmente de tipo ideológico.
+** [[parapetó]]

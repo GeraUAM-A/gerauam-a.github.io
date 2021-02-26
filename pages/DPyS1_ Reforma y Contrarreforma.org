@@ -1,0 +1,20 @@
+#+TITLE: DPyS1: Reforma y Contrarreforma
+
+** #kanban
+*** *Reforma protestante* #numlist
+**** Instrucciones de la lectura y las letras, lenguas vernáculas.
+**** Interpretación de la Biblia.
+**** Instrucción universal.
+**** Dios como centro de la formación
+**** Importancia de la educación.
+**** Biblia traducida a lenguas vernáculas.
+**** Tesis de Lutero publicadas en la iglesia de Wittenberg.
+*** *Contrarreforma católica* #numlist
+**** Concilio de Trento.
+**** Institución de la Inquisición.
+**** Mayor disciplina de sus miembros.
+**** Jesuitas, nueva orden religiosa.
+**** Redacción del Index (libro prohibidos).
+**** Reorganización de las escuelas en países católicos.
+**** Educación de laicos y clases dirigentes
+**** Reestructuración de las áreas de conocimientos.

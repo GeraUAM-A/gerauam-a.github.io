@@ -1,0 +1,106 @@
+#+TITLE: MEPS1: 6ta tarea
+
+** _En tu computadora haz una cronología de las fechas que se mencionan en la lectura y ordénalas. Como la computadora lo permite, cada vez que surja una fecha, un plan, un acuerdo o cualquier otro suceso que se mencione, ordénalos cronológicamente._ #kanban-w200 
+:PROPERTIES:
+:in-progress: 1613589196097
+:todo: 1613589185722
+:done: 1613687439074
+:END:
+*** *1909*:
+**** Díaz envía a Bernardo Reyes como comisionado a Europa.
+**** Madero publica /La sucesión presidencial de 1910/.
+**** Madero funda el /Partido Nacional Antirreeleccionista/.
+**** Zapata fue electo presidente del consejo de su pueblo.
+*** *1910*:
+**** Encarcelan a Madero en San Luis Potosí.
+**** Díaz y Corral salen vencedores en los comicios.
+**** Madero sale de la cárcel y huye a San Antonio, Texas.
+**** Madero redacta el /plan de San Luis/.
+**** Se realizaron levantamientos en armas.
+**** Asesinan a Aquiles Serdan.
+**** Comienza la revolución.
+*** *1911*:
+**** Madero regresa a México.
+**** El movimiento se propagó a muchos lugares de la república.
+**** Los hermanos Figueroa se sublevaron en la región minera de Huitzuco, Guerrero.
+**** En Morelos estalló la insurgencia zapatista.
+**** Pascual Orozco y Pancho Villa toman Ciudad Juárez.
+**** Se firma el /tratado de Ciudad Juárez/.
+**** Madero llega a la ciudad de México.
+**** Francisco y Emilio Vázquez Gómez se levantan en armas contra Madero.
+**** Se llevan a cabo una de las elecciones más libres.
+**** Madero acepta el cargo de presidente.
+**** Se proclama el /Plan de Ayala/.
+**** Se proclama el plan /Plan de la Soledad/ como intento de golpe de Estado.
+*** *1912*:
+**** Pascual Orozco y su bando hacen una rebelión.
+**** La rebelión de los orozquistas es vencida.
+**** Se crea el /Departamento del Trabajo/.
+**** Un grupo de “científicos” realizaron una revuelta encabezada por Félix Díaz.
+**** Félix Díaz se apodera del Puerto de Veracruz.
+**** Se retoma el Puerto de Veracruz por parte del gobierno y se encarcela a Felix Díaz.
+**** Woodrow Wilson gana las elecciones de Estados Unidos de América.
+*** *1913*:
+**** Bernardo Reyes y Manuel Mondragón intentan un golpe, pero fracasan.
+**** Reyes cae muerto.
+**** Huerta y Félix Díaz se reúnen para acordar el derrocamiento de Madero.
+**** Ocurre la /decena trágica/.
+**** Harry Lane amenaza a Madero con una intervención de Estados Unidos de América si no renuncia.
+**** Asesinan a Gustavo A. Madero.
+**** Asesinan a Francisco I. Madero y a José María Pino Suárez.
+**** Se desata la revolución que al parecer Díaz y Madero habían cesado.
+**** Se recurre nuevamente a la deuda externa por parte de Huerta.
+**** La /Casa del Obrero/ realizó la primera celebración pública del 1º de mayo.
+*** *1914*
+**** El dólar pasa a costar 4 pesos c/u.
+**** Se suspende el pago de la deuda externa.
+**** Se cierra la organización /La Casa del Obrero/.
+*** *1915*
+**** Problemas en las empresas para recibir crédito y para hacer pagos a distancia.
+*** *1916*
+**** Carranza realiza una incautación bancaria.
+** _Identifica motivos políticos, sociales, económicos dentro de la lectura que se puedan considerar como detonantes de la Revolución._
+:PROPERTIES:
+:in-progress: 1613588963099
+:done: 1613693116023
+:END:
+*** Se buscaba realizar una revolución para quitar a Porfirio Díaz del poder, ya que este venía de un periodo largo de gobierno, reeligiéndose de manera continua. Díaz no respetaba la democracia, no solo tratándose de él, sino también cuando se habla de elecciones de estados del país, queriendo poner a personas de su confianza e interés en el poder con sus influencias. Entonces uno de los puntos que quería la revolución era establecer una democracia electoral real, donde no hubiera reelección, cosa que se podía notar con el libro de Francisco I. Madero -quien convocaba a dicha revolución- "La sucesión presidencial de 1910" y su lema "sufragio efectivo, no reelección.". A este movimiento se le sumaron los "reyistas" que se ponían en contra de Díaz tras su reelección y sobre todo tras nombrar como su candidato a vicepresidente a Ramón Corral quien se identificaba con los "científicos". Buscaba por otro lado también la justicia con el pueblo. El pueblo estaba poco contento con el gobierno de Díaz, sobre todo los llamados posteriormente "campesinos", quienes querían y pedían la devolución y repartición de tierras. Aunque inicialmente este problema de repartición de tierras no se tomó del todo en cuenta, posteriormente recibiría atención en el "Plan de San Luis". Lo que si tomaba en cuenta desde un inicio en cuanto al pueblo fueron los problemas obreros.
+** _Busca los planes que se mencionan en la lectura e investiga lo que reivindicaban y quien los firma._
+:PROPERTIES:
+:in-progress: 1613588978098
+:done: 1613601182898
+:END:
+*** /Plan de San Luis/.
+:PROPERTIES:
+:id: 6036de34-7b00-4ea4-be94-c4e96383ebe9
+:END:
+**** Firmado el 5 de octubre de 1910 por Francisco I. Madero. Llama al pueblo a levantarse en armas y comenzar una revolución el 20 de noviembre de 1910. Busca quitar a Porfirio Díaz del poder y a todos sus referentes en el mismo. Queriendo tras esto, a diferencia de Díaz, establecer una democracia electoral real, no una dictadura o una democracia llena de influencias. También buscaba limitar los derechos de los extranjeros, que estaban en crecimiento tras las muchas inmigraciones. Otro tema que trataba este plan era el de las tierras y propiedades, prometiendo devolver a los pueblos las tierras que se habían expropiado o tomado por el Estado.
+***** Francisco I. Madero
+***** Llama al pueblo a realizar una revolución el 20 de noviembre de 1910.
+***** Buscaba una democracia electoral.
+***** Limitación de los derechos de los extranjeros.
+***** Devolver tierras injustamente expropiadas de los pueblos.
+*** /Tratado de Ciudad Juárez/.
+:PROPERTIES:
+:id: 60382219-e919-4a12-96da-2da7229eee4e
+:END:
+**** Firmado el  21 de mayo de 1911 por Madero y representantes enviados por Díaz. En este tratado se acuerda la renuncia del presidente Díaz. También se acuerda el fin de la rebelión de Madero y sus simpatizantes. Esto da como resultado el exilio de Díaz y la toma de poder de Francisco León de la Barra mientras llegaban las elecciones. Con esto se pone fin a la primera fase de la Revolución mexicana.
+***** Madero y enviados de Díaz.
+***** Se acuerda la renuncia del presidente y el fin de la rebelión.
+****** Da como resultado el exilio de Díaz y la toma de poder de Francisco León de la Barra mientras llegaban las elecciones.
+***** Pone fin a la primera fase de la Revolución mexicana.
+*** /Plan de Ayala/.
+**** Se proclama el 25 de noviembre de 1911 con Emiliano Zapata al mando. Trataba el tema agrario, buscando la devolución de las tierras expropiadas a los pueblos. Además de esto, buscaba la distribución de la tercera parte de las haciendas entre la gente sin tierras y de las haciendas cuyos dueños estuvieran en contra de la revolución. Este plan fue motivo y emblema de lucha revolucionaria por parte de los /campesinos/.
+***** 25 de noviembre de 1911.
+***** Emiliano Zapata.
+***** Restitución de todas las tierras expropiadas a los pueblos.
+***** Distribución de la tercera parte de las propiedades de las haciendas entre la gente sin tierra y la expropiación y repartición de las haciendas cuyos dueños se hubieran opuesto a la Revolución.
+***** Este Plan se convirtió en el programa de la lucha campesina revolucionaria del sur durante una década.
+*** /Plan de la Soledad/.
+**** Surgió como intento de golpe de Estado por parte de la gente de Díaz. Este fue el primer intento de dicho golpe de Estado. Llevado a cabo por parte de Bernardo Reyes en septiembre de 1911 en Texas. Falló tras la indiferencia del ejército federal, y fue encarcelado su autor.
+***** Bernardo Reyes.
+***** Texas.
+***** Septiembre de 1911.
+** _¿Qué logró el gobierno de Madero y cuáles fueron sus errores?_
+*** Como logros del gobierno de Madero podemos presumir la instauración de una democracia muy bien defendida, la creación de una /Comisión Reguladora del Mercado del Henequén/, la regulación de la economía del país, la disminución de la deuda externa, la creación del /Departamento del Trabajo/, la disminución de los precios, los aumentos salariales de la clase trabajadora, la instauración de Felipe Ángeles como jefe del ejército federal.
+*** Como errores podemos señalar el nombramiento de su gabinete compuesto por porfiristas y revolucionarios no radicales; su intento de mejorar las finanzas públicas subiendo y fijando impuestos a empresas extranjeras de diversos nichos, ganándose más oposición estadounidense; el aumento de gastos militares que llevaron a un crecimiento en la deuda externa tras un periodo de recuperación económica que se estancaría.

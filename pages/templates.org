@@ -1,0 +1,10 @@
+#+TITLE: templates
+
+**
+:PROPERTIES:
+:template: Table
+:END:
+| CONTENT | CONTENT |
+| ----------- | ----------- |
+| SubCont1 | SubCont1 |
+| SubCont2 | SubCont2 |

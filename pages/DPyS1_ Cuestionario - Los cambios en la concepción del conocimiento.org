@@ -1,0 +1,25 @@
+#+TITLE: DPyS1: Cuestionario - Los cambios en la concepción del conocimiento
+
+** *_Describe con tus propias palabras ¿en qué consiste la crítica renacentista al conocimiento medieval?_*
+*** Cambia el pensamiento teológico por uno humanista, es decir, se cambia el pensamiento de Dios en primer plano por uno del ser humano. Comienza el arte y la ciencia a tomar forma natural y no mística. Esto nos llevó a generar nuevas tecnologías, herramientas y conocimientos.
+** *_Explica la importancia de los pensadores griegos en los siglos XV y XVI._*
+*** Busca el porqué, el motivo y origen de las cosas de una manera más objetiva. Fueron precursores de doctrinas modernas y métodos de investigación y conocimiento. Se les puede considerar como los primeros científicos. Teniendo no solo en mira a Dios, sino también a la humanidad.
+** *_Se dice que la experiencia es la fuente del conocimiento. ¿Explica con tus propias palabras por qué?_*
+*** Porque en la experiencia no nos encontramos frente a los objetos y fenómenos materiales, sino a nuestras propias sensaciones, a nuestras propias emociones lo que nos abre un panorama hacia nuevos conocimientos.
+** *_Investiga en un libro de historia de la filosofía las tesis principales de las siguientes corrientes de pensamiento: estoicismo, epicureísmo y neoplatonismo._*
+*** *Estoicismo:*
+**** Trata sobre la felicidad. Los estoicos decían que el enojo era signo de ignorancia. Para ellos una persona sabia era quien tenía control absoluto de sus emociones. Si respondes a provocaciones demostrarías que quien tiene control sobre tus emociones es quien te provoca y no tú. El autocontrol lleva a la sabiduría. Hay que sentirte afortunado por lo que vives y tienes. La felicidad consiste en disfrutar la vida en su totalidad. Esta debe venir del interior de las personas y no del exterior (de las cosas materiales y de las personas que te rodean o quieres).
+*** *Epicureísmo:*
+**** Se inscribe en el contexto de una serie de movimientos caracterizados por el interés acerca de los problemas morales que afectan a todos los hombres. Los epicúreos tratan de encontrar nuevas propuestas ante la contingencia de la vida humana y el sufrimiento que ella conlleva. Junto con el cinismo, el estoicismo y el escepticismo, el epicureísmo es la primera de las grandes escuelas que representa el paso de la época clásica a la época helenística.
+*** *Neoplatonismo:*
+**** Conjunto de doctrinas y escuelas de inspiración platónica que se desarrollaron desde el siglo III al siglo VI, se presenta como la última gran expresión del pensamiento pagano antiguo. En el neoplatonismo, la teoría de las ideas de Platón tomó la forma de doctrina sobre la emanación mística (irradiación) del mundo material a partir de un principio espiritual. La materia no es más que el eslabón inferior en la jerarquía del universo, es una emanación del “alma del mundo”, sobre la que se eleva el “espíritu”, y aún más arriba, la esencia primera o “lo único”.
+** *_Elabora un cuadro comparativo entre la teoría del conocimiento tomista (Santo Tomás) y la de los humanistas._*
+***
+| TOMISMO | HUMANISMO|
+| ------ | ---------------------- |
+| Basada en la disciplina de la sabiduría, científicamente da respuestas a las certezas naturales del razonamiento, a los principios del conocimiento humano y al realismo integral. | A la hora de tratar de comprender a un alumno hay que verlo en forma integral. |
+|                                                                                                                                                                                    | El ser humano requiere de vivir en grupo para crecer.                                       |
+|                                                                                                                                                                                    | Fomenta el aprendizaje significativo y participativo.                                       |
+| Es la unificación de la verdad revelada y la fe, la razón natural y el sentido común.                                                                                              | Promueve una educación basada en el desarrollo de una conciencia ética, altruista y social. |
+| Promueve el respeto a las diferencias individuales.                                                                                                                                | Promueve el respeto a las diferencias individuales.                                         |
+| Enfoque centrado en Dios.                                                                                                                                                          | Enfoque centrado en la persona.                                                             |
