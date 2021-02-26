@@ -1,7 +1,0 @@
-#+TITLE: HIST1
-
-** #SEMANA-9
-*** [[https://drive.google.com/file/d/1CYlnmdT-XK4c-18sibgFFAb0igjBZKgs/view?usp=sharing][Historia 1: Esquema Semana 9]], [[Feb 19th, 2021]]
-:PROPERTIES:
-:id: 6035c18a-604a-4440-82fd-800a90dadc91
-:END:

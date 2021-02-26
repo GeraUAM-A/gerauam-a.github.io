@@ -1,7 +1,0 @@
-#+TITLE: MATERIAS
-
-** [[DPyS1]]
-** [[HIST1]]
-** [[LyE1]]
-** [[LogSimb1]]
-** [[MEPS1]]
