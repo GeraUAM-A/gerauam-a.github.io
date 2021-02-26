@@ -1,7 +1,0 @@
-#+TITLE: feb 26th, 2021
-
-** *Semana 10:*
-*** TODO [[LogSimb1]]: [[LogSimb1 - Lectura "Razonamiento y Silogismo Jurídico"]]
-:PROPERTIES:
-:todo: 1614106702703
-:END:

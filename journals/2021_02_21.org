@@ -1,7 +1,0 @@
-#+TITLE: Feb 21st, 2021
-
-** DONE [[DPyS1]]: [[DPyS1: Reforma y Contrarreforma]]
-:PROPERTIES:
-:todo: 1613970755321
-:done: 1613972596584
-:END:
